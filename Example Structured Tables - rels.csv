@@ -1,0 +1,12 @@
+node type 1,node type 2,match key 1,match id 1,match key 2,match id 2,rel_type,attribute_label_1,value_1,attribute_label_2,value_2,attribute_label_3,value_3
+Person,Organisation,name,Alice,name,Tessier-Ashpoole,CEO,start_date,01/10/2171,end_date,01/12/2184,Employee_No,8348
+Person,Organisation,name,Alice,name,SenseNet,Employee,start_date,01/01/2185,,,Employee_No,3422
+Person,Organisation,name,Bob,name,SenseNet,Employee,start_date,01/07/2175,,,Employee_No,2223
+Person,Policy,name,Alice,ref_number,PL/0034,Written_by,date,01/06/2178,,,,
+Person,Policy,name,Bob,ref_number,PL/0034,Written_by,date,01/06/2178,,,,
+Person,Policy,name,Bob,ref_number,PL/0023,Written_by,date,01/09/2186,,,,
+Policy,Organisation,name,Tessier-Ashpoole,ref_number,PL/0034,Implement_by,implementation_date,01/12/2178,,,,
+Policy,Organisation,name,SenseNet,ref_number,PL/0034,Implement_by,implementation_date,01/10/2178,,,,
+Policy,Organisation,name,SenseNet,ref_number,PL/0023,Implement_by,implementation_date,01/11/2186,,,,
+Organisation,Organisation,name,SenseNet,name,Tessier-Ashpoole,Merged_with,date,01/10/2188,,,,
+Person,Person,name,Alice,name,Bob,Friends_with,date,01/02/2178,,,,

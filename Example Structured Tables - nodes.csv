@@ -1,0 +1,9 @@
+type,attribute_label_1,value_1,attribute_label_2,value_2,attribute_label_3,value_3,attribute_label_4,value_4,attribute_label_5,value_5
+Person,name,Alice,,,,,,,,
+Person,name,Bob,,,,,,,,
+Organisation,name,SenseNet,description,corporate data library,,,,,,
+Organisation,name,Tessier-Ashpoole,description,wealthy industrial clan organization,,,,,,
+Document,title,Systems Mapping,,,,,,,,
+Document,title,Complex Thinking,,,,,,,,
+Policy,ref_number,PL/0034,title,Uses of Systems Mapping in Local Communties,,,,,,
+Policy,ref_number,PL/0023,title,Use of AI in Decision Making,,,,,,
